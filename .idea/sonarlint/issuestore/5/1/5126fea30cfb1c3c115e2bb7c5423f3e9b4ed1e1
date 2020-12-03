@@ -1,0 +1,9 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "logger".(ðÕ›Òüÿÿÿÿ8Â¼…½à.
+M
+java:S1481"+Remove this unused "logger" local variable.(ðÕ›Òüÿÿÿÿ8Â¼…½à.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¢ˆøþÿÿÿÿ8Û¯¹×à.
+F
+java:S2438"$"cansumerKafkaThread" is a "Thread".(ÿ¡Ã˜ÿÿÿÿÿ8Û¯¹×à.
